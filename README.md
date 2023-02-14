@@ -1,6 +1,7 @@
 # sql-challenge
 
-1. Use the provided information to create a table schema for each of the six CSV files.
+I utilized  provided information to create a table schema for each of the six CSV files. Then using quick DBD created a map of the files/ diagram of the data. Within this i assigned the primary and foreign keys. 
+
 2. Import each CSV file into its corresponding SQL table.
 
 ## Data Analysis
