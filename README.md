@@ -2,7 +2,7 @@
 
 I utilized  provided information to create a table schema for each of the six CSV files. Then using quick DBD created a map of the files/ diagram of the data. Within this i assigned the primary and foreign keys. 
 
-2. Import each CSV file into its corresponding SQL table.
+After this, I copied the code generated from the QuickDBD to create my tables. Lastly I imported the files into SQL so my tables would be complete. 
 
 ## Data Analysis
 ### created code to:
