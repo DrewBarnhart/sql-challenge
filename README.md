@@ -4,7 +4,6 @@ I utilized  provided information to create a table schema for each of the six CS
 
 After this, I copied the code generated from the QuickDBD to create my tables. Lastly I imported the files into SQL so my tables would be complete. 
 
-## Data Analysis
 ### created code to:
 
 List the employee number, last name, first name, sex, and salary of each employee.
