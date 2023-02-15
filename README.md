@@ -1,4 +1,4 @@
-# sql-challenge
+# Sql-Challenge
 
 I utilized  provided information to create a table schema for each of the six CSV files. Then using quick DBD created a map of the files/ diagram of the data. Within this i assigned the primary and foreign keys. 
 
